@@ -1,0 +1,38 @@
+{
+  "name": "Xiaomisme",
+  "short_name": "Xiaomisme",
+  "start_url": "https://xiaomisme.blogspot.com/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#FF6700",
+  "description": "Info terbaru dan terupdate seputar Xiaomi. Harga HP Xiaomi, Spesifikasi Xiaomi, Gadget Xiaomi, Berita Xiaomi.",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-KmAIOAtDHbE/XgVkI3MVu1I/AAAAAAAAZCs/c6cE5Ubyd5sU_iKJGhR5Rjy-NzAQeb0gACLcBGAsYHQ/s48/xiaomisme.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-KmAIOAtDHbE/XgVkI3MVu1I/AAAAAAAAZCs/c6cE5Ubyd5sU_iKJGhR5Rjy-NzAQeb0gACLcBGAsYHQ/s72/xiaomisme.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-KmAIOAtDHbE/XgVkI3MVu1I/AAAAAAAAZCs/c6cE5Ubyd5sU_iKJGhR5Rjy-NzAQeb0gACLcBGAsYHQ/s96/xiaomisme.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-KmAIOAtDHbE/XgVkI3MVu1I/AAAAAAAAZCs/c6cE5Ubyd5sU_iKJGhR5Rjy-NzAQeb0gACLcBGAsYHQ/s144/xiaomisme.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-KmAIOAtDHbE/XgVkI3MVu1I/AAAAAAAAZCs/c6cE5Ubyd5sU_iKJGhR5Rjy-NzAQeb0gACLcBGAsYHQ/s168/xiaomisme.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-KmAIOAtDHbE/XgVkI3MVu1I/AAAAAAAAZCs/c6cE5Ubyd5sU_iKJGhR5Rjy-NzAQeb0gACLcBGAsYHQ/s192/xiaomisme.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-KmAIOAtDHbE/XgVkI3MVu1I/AAAAAAAAZCs/c6cE5Ubyd5sU_iKJGhR5Rjy-NzAQeb0gACLcBGAsYHQ/s512/xiaomisme.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
